@@ -4,7 +4,7 @@
 #SBATCH --mail-user=deborah.gerard@uni.lu
 #SBATCH -N 1
 #SBATCH --exclusive
-#SBATCH --time=04:00:00
+#SBATCH --time=48:00:00
 #SBATCH -p batch
 #SBATCH --qos=normal
 
